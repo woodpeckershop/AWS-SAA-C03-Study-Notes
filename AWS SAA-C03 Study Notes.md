@@ -1,4 +1,10 @@
 # My study notes for the AWS SAA-C03 exam
+
+
+Resources: 
+- [Udemy: Ultimate AWS Certified Solutions Architect Associate SAA-C03 by Stephane Maarek](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
+- [Youtube Channel: Be A Better Dev](https://www.youtube.com/@BeABetterDev)
+
 # Virtual Private Cloud (VPC)
 
 It’s like a data center. A secure, isolated private cloud hosted within a public cloud.
