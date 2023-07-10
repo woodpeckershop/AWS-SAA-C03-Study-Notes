@@ -3,8 +3,7 @@
 [Certificate](https://www.credly.com/badges/78b5f4e0-1eff-4c82-b8d3-5c2cae2b8d4e/public_url)
 
 Resources: 
-- [Udemy: Ultimate AWS Certified Solutions Architect Associate SAA-C03 by Stephane Maarek](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
-  - [Certificate of Completion](https://www.udemy.com/certificate/UC-da131830-c971-4503-981a-ccacd1426ff9/)
+- [Udemy: Ultimate AWS Certified Solutions Architect Associate SAA-C03 by Stephane Maarek](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/) ([Certificate of Completion](https://www.udemy.com/certificate/UC-da131830-c971-4503-981a-ccacd1426ff9/))
 - [Youtube Channel: Be A Better Dev](https://www.youtube.com/@BeABetterDev)
 
 # Virtual Private Cloud (VPC)
